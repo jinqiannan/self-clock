@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+*{margin: 0;padding: 0;}
+ul{list-style: none;width: 304px;height: 61px;margin: 20px auto;}
+li{float: left;width: 41px;height: 61px;margin-left: 4px;overflow: hidden;}
+p{float: left;width: 17px;height: 61px;background-image: url('../img/d.png')}
+img{position: relative;top: 0;}
